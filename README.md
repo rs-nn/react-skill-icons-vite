@@ -1,13 +1,14 @@
 <p align="center">
-<img width="280" src="https://github.com/tandpfun/skill-icons/raw/main/.github/text-logo.svg#gh-dark-mode-only">
-<img width="280" src="https://github.com/tandpfun/skill-icons/raw/main/.github/text-logo-light.svg#gh-light-mode-only">
+<img width="280" src="https://raw.githubusercontent.com/fdorantesm/react-skill-icons/main/.github/skill-icons.svg">
 </p>
 <h1 align="center">React Skill Icons</h1>
 
 <div align="center">
 <br>
 
-<i>React components for skillicons.dev</i>
+<p><i>React components for skillicons.dev</i></p>
+
+---
 
 <a href="https://github.com/fdorantesm/react-skill-icons/stargazers"><img src="https://img.shields.io/github/stars/fdorantesm/react-skill-icons" alt="Stars Badge"/></a>
 <a href="https://github.com/fdorantesm/react-skill-icons/network/members"><img src="https://img.shields.io/github/forks/fdorantesm/react-skill-icons" alt="Forks Badge"/></a>
@@ -22,31 +23,31 @@
 Install with npm
 
 ```bash
-  npm install react-skill-icons
+  npm install @fdorantesm/react-skill-icons
 ```
 
 Install with yarn
 
 ```bash
-  yarn add react-skill-icons
+  yarn add @fdorantesm/react-skill-icons
 ```
 
 Install with pnpm
 
 ```bash
-  pnpm install react-skill-icons
+  pnpm install @fdorantesm/react-skill-icons
 ```
 
 Install with bun
 
 ```bash
-  bun add react-skill-icons
+  bun add @fdorantesm/react-skill-icons
 ```
 
 ## Usage
 
 ```ts
-import { GithubDark, JavaScript, ReactDark } from "react-skill-icons";
+import { GithubDark, JavaScript, ReactDark } from "@fdorantesm/react-skill-icons";
 
 function App() {
   return (
@@ -414,15 +415,15 @@ Feel free to fork this repo to generate more svg packages.
 
 <div align="center">
     <a href="https://github.com/fdorantesm" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
     </a>
     <a href="https://twitter.com/fdorantesm" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/fdorantesm" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.youtube.com/user/FernandoDorantes" target="_blank">
-        <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
     </a>
 </div>

@@ -1,6 +1,6 @@
 {
-  "name": "react-skill-icons",
-  "version": "1.0.0",
+  "name": "@fdorantesm/react-skill-icons",
+  "version": "1.0.5",
   "description": "React components for skillicons.dev by tandpfun",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -15,6 +15,11 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
+  "bugs": {
+    "url": "https://github.com/fdorantesm/react-skill-icons/issues",
+    "email": "fernando@dorant.es"
+  },
+  "homepage": "https://github.com/fdorantesm/react-skill-icons",
   "devDependencies": {
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",

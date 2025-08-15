@@ -8,7 +8,7 @@
 
 <p><i>React components for skillicons.dev</i></p>
 
-<p>This is just a modified version of <a href="https://github.com/tandpfun/skill-icons">https://github.com/tandpfun/skill-icons</a>, so it works better with Laravel React and Vite.
+<p>This is just a modified version of <a href="https://github.com/tandpfun/skill-icons">https://github.com/tandpfun/skill-icons</a>, so it works better with Laravel React and Vite.</p>
 
 ---
 

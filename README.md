@@ -8,6 +8,8 @@
 
 <p><i>React components for skillicons.dev</i></p>
 
+<p>This is just a modified version of <a href="https://github.com/tandpfun/skill-icons">https://github.com/tandpfun/skill-icons</a>, so it works better with Laravel React and Vite.
+
 ---
 
 <a href="https://github.com/fdorantesm/react-skill-icons/stargazers"><img src="https://img.shields.io/github/stars/fdorantesm/react-skill-icons" alt="Stars Badge"/></a>

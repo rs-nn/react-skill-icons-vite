@@ -68,7 +68,7 @@ To see all icons and their names, visit [skillicons.dev](https://skillicons.dev/
 ## Credits
 
 - Original SVG icons by [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-- React conversion and packaging by [nimr0d](https://github.com/nimr0d)
+- React conversion and packaging by [nimr0d](https://github.com/rs-nn/react-skill-icons-vite)
 
 
 # Icons List
@@ -324,6 +324,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 ## Credits
 
 Authors of skillicons.dev and react-skillicons
+<br>
+All credits go to them
 
 - [Tandpfun](https://github.com/tandpfun) tandpfun/skill-icons
 - [willywdev](https://github.com/willywdev) willywdev/react-skillicons

@@ -28,10 +28,10 @@
   "react-dom": ">=16.8.0 <19.0.0"
   },
   "bugs": {
-    "url": "https://github.com/fdorantesm/react-skill-icons/issues",
+    "url": "https://github.com/rs-nn/react-skill-icons-vite",
     "email": "fernando@dorant.es"
   },
-  "homepage": "https://github.com/fdorantesm/react-skill-icons",
+  "homepage": "hhttps://github.com/rs-nn/react-skill-icons-vite",
   "devDependencies": {
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",

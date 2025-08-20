@@ -1,6 +1,6 @@
 {
   "name": "@nimr0d/react-skill-icons-vite",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "React components for skillicons.dev by tandpfun",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
